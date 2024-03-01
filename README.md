@@ -62,9 +62,9 @@ Soon
 <!-- CONTACT -->
 ## Contact
 
-Rolando Armas - [LinkedIn](https://www.linkedin.com/in/mary-josefina-vergara-9ba47561/) - tarmas@yachaytech.edu.ec
+Rolando Armas - [ResearchGate](https://www.researchgate.net/profile/Rolando-Armas) - tarmas@yachaytech.edu.ec
 
-Juan Pablo Astudillo - [ResearchGate](https://www.researchgate.net/profile/Rolando-Armas) - jastudillo@yachaytech.edu.ec
+Juan Pablo Astudillo - [LinkedIn](https://ca.linkedin.com/in/juan-pablo-astudillo-leon-ph-d-b9318151) - jastudillo@yachaytech.edu.ec
 
 Leo Ramos - [LinkedIn](https://www.linkedin.com/in/leo-thomas-ramos/) - theleothomasramos@gmail.com
 
